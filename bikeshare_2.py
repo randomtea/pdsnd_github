@@ -1,6 +1,9 @@
 #pycharm is used as IDE
 #the latest pandas version 2.0.3 is used
 
+#Uploaded bikeshare.py to github 10/19/2023
+
+
 import datetime
 import time
 import pandas as pd
