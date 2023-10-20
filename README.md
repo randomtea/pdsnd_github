@@ -7,7 +7,7 @@
 Udacity Project, Github Version Control
 
 ### Description
-Version Control 
+Version Control through GITHUB
     
 ### Files used
 Bikeshare.py
