@@ -6,9 +6,6 @@ import time
 import pandas as pd
 import numpy as np
 
-#git comment 1
-#git comment 2
-
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
